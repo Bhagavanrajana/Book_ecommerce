@@ -1,6 +1,6 @@
 BOOK STORE - LIGHTNING WEB COMPONENT
 
-This is a simple Salesforce Lightning Web Component (LWC) that fetches and displays books from the Google Books API based on a search keyword.
+This is a Salesforce Lightning Web Component (LWC) that fetches and displays books from the Google Books API based on a search keyword.
 
 FEATURES
 
